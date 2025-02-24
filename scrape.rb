@@ -17,3 +17,4 @@ end
 
 table = Terminal::Table.new headings: ['Name', 'English', 'Math', 'Physics', 'Average'], rows: rows
 puts table
+puts "test"
